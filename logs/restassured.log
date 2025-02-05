@@ -1,0 +1,35 @@
+2025-02-05 13:00:05 [main] INFO  apiTests.UserTests - ------------User Creation---------------
+2025-02-05 13:00:09 [main] INFO  apiTests.UserTests - ------------User Created Successfully---------------
+2025-02-05 13:00:09 [main] INFO  apiTests.UserTests - ------------Fetching User Details---------------
+2025-02-05 13:00:11 [main] INFO  apiTests.UserTests - ------------User Details Fetched Successfully---------------
+2025-02-05 13:00:11 [main] INFO  apiTests.UserTests - ------------Update User Details---------------
+2025-02-05 13:00:13 [main] INFO  apiTests.UserTests - ------------User Details Updated Successfully---------------
+2025-02-05 13:00:13 [main] INFO  apiTests.UserTests - ------------User Deletion---------------
+2025-02-05 13:00:15 [main] INFO  apiTests.UserTests - ------------User Deleted Successfully---------------
+2025-02-05 13:03:04 [main] DEBUG apiTests.UserTests - -------Debugging-----------
+2025-02-05 13:03:04 [main] INFO  apiTests.UserTests - ------------User Creation---------------
+2025-02-05 13:03:07 [main] INFO  apiTests.UserTests - ------------User Created Successfully---------------
+2025-02-05 13:03:07 [main] INFO  apiTests.UserTests - ------------Fetching User Details---------------
+2025-02-05 13:03:09 [main] INFO  apiTests.UserTests - ------------User's Details Fetched Successfully---------------
+2025-02-05 13:03:09 [main] INFO  apiTests.UserTests - ------------Update User Details---------------
+2025-02-05 13:03:11 [main] INFO  apiTests.UserTests - ------------User Details Updated Successfully---------------
+2025-02-05 13:03:11 [main] INFO  apiTests.UserTests - ------------User Deletion---------------
+2025-02-05 13:03:12 [main] INFO  apiTests.UserTests - ------------User Deleted Successfully---------------
+2025-02-05 16:24:48 [main] DEBUG apiTests.UserTests2 - -------Debugging-----------
+2025-02-05 16:24:48 [main] INFO  apiTests.UserTests2 - ------------User Creation---------------
+2025-02-05 16:24:51 [main] INFO  apiTests.UserTests2 - ------------User Created Successfully---------------
+2025-02-05 16:24:51 [main] INFO  apiTests.UserTests2 - ------------Fetching User Details---------------
+2025-02-05 16:24:53 [main] INFO  apiTests.UserTests2 - ------------User's Details Fetched Successfully---------------
+2025-02-05 16:24:53 [main] INFO  apiTests.UserTests2 - ------------Update User Details---------------
+2025-02-05 16:24:54 [main] INFO  apiTests.UserTests2 - ------------User Details Updated Successfully---------------
+2025-02-05 16:24:54 [main] INFO  apiTests.UserTests2 - ------------User Deletion---------------
+2025-02-05 16:24:56 [main] INFO  apiTests.UserTests2 - ------------User Deleted Successfully---------------
+2025-02-05 22:56:46 [main] DEBUG apiTests.UserTests2 - -------Debugging-----------
+2025-02-05 22:56:46 [main] INFO  apiTests.UserTests2 - ------------User Creation---------------
+2025-02-05 22:56:50 [main] INFO  apiTests.UserTests2 - ------------User Created Successfully---------------
+2025-02-05 22:56:50 [main] INFO  apiTests.UserTests2 - ------------Fetching User Details---------------
+2025-02-05 22:56:52 [main] INFO  apiTests.UserTests2 - ------------User's Details Fetched Successfully---------------
+2025-02-05 22:56:52 [main] INFO  apiTests.UserTests2 - ------------Update User Details---------------
+2025-02-05 22:56:53 [main] INFO  apiTests.UserTests2 - ------------User Details Updated Successfully---------------
+2025-02-05 22:56:53 [main] INFO  apiTests.UserTests2 - ------------User Deletion---------------
+2025-02-05 22:56:55 [main] INFO  apiTests.UserTests2 - ------------User Deleted Successfully---------------

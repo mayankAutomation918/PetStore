@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="apiUtilities.ExtentReportManager"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="/home/o290173@eads.ecomexpress.in/Documents/JAVA/PetStore/src/test/java/apiTests">
+        <classes>
+            <class name="apiTests.UserTests2">
+            </class>
+        </classes>
+    </test>
+</suite>
